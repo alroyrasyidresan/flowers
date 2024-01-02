@@ -144,7 +144,7 @@ body{
 .foot {
     /* font-weight: 100; */
     text-align: center;
-    padding-top: 2rem;
+    padding-top: 20px;
     font-size: 0.8rem;
     color: white;
 }
